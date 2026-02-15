@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+data/lightcast_job_postings.csv
+lightcast_job_postings.csv
+output/
+*.csv
