@@ -1,11 +1,5 @@
 ---
-title: "Welcome to My Website"
-author: "Hasnat Ahsan"
-date: "`r Sys.Date()`"
-format:
-  html:
-    theme: journal
-    toc: true
+title: "Personal Website"
 ---
-# Hello, World!  
-Welcome to my Quarto website
+
+Hey there! You landed on my home. To know more about me, check the links above.

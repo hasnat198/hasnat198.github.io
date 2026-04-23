@@ -1,0 +1,15 @@
+{
+  "hash": "d44d97e45dbf64da32286ae00c6fb1c8",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"About Me\"\nformat: html\nengine: knitr\n---\n\n\n::: {.cell}\n<style type=\"text/css\">\n.justify {\n  text-align: justify\n}\n</style>\n:::\n\n\n## Basic Information\n\n::: justify\nHello. I am Hasnat Ahsan, and I am from Bangladesh.\n:::\n\n## Professional Status\n\n::: justify\nMy professional experience is diversified, rangind from technology to banking. I have completed various technical projects including telecommunication billing system migration, data center establishment etc. Besides, I have been working with financial policy making as an employee of the Central Bank of Bangladesh.\n::: \n\n## Academics\n\n::: justify\nI am a Computer Engineering graduate. I have also completed my MBA. Currently I am doing my MS in Applied Business Analytics at the Boston University.\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
