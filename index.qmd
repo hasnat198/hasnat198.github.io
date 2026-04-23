@@ -1,0 +1,11 @@
+---
+title: "Welcome to My Website"
+author: "Hasnat Ahsan"
+date: "`r Sys.Date()`"
+format:
+  html:
+    theme: journal
+    toc: true
+---
+# Hello, World!  
+Welcome to my Quarto website
